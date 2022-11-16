@@ -53,7 +53,6 @@ int iMin(int* a, const int size, int min, int imin, int j)
 		return imin;
 }
 
-
 int* Sort(int* a, const int size, int i, int min, int imin)
 {
 	if (i < size - 1)
